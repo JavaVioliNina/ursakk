@@ -12,5 +12,8 @@ public class Main {
             int c = new Scanner(System.in).nextInt();
             double formula = c * 1.8 + 32;
             System.out.println(c + "C = " + formula + "F");
+
+
         }
     }
+
